@@ -1,2 +1,2 @@
 # PRVI-Map
-Magnitude 
+Magnitudes 
